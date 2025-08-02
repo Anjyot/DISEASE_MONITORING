@@ -80,3 +80,5 @@ We developed a **real-time health monitoring system** using **IBM's cutting-edge
 ---
 
 ### ✅ **Conclusion**
+
+Our AI agent transforms chronic disease management from reactive care to predictive and personalized intervention, empowering patients and providers alike. With the power of IBM AI, we deliver not just data—but meaningful, life-saving insights.
